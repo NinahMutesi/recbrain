@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d6b27"/>
+      <stop offset="100%" style="stop-color:#5BAD4E"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="url(#g)"/>
+  <text x="8" y="42" font-family="Arial" font-weight="bold" font-size="28" fill="white">REC</text>
+  <rect x="0" y="50" width="64" height="14" rx="0" fill="#1a4d18" opacity="0.6"/>
+  <text x="32" y="61" font-family="Arial" font-size="10" fill="#a8d5a2" text-anchor="middle">NREP·MEMD</text>
+</svg>

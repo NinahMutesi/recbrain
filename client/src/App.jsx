@@ -344,7 +344,7 @@ export default function App() {
       {/* ── Quick start chips ── */}
       {messages.length <= 1 && (
       <div style={{ padding: '6px 16px', flexShrink: 0, background: 'rgba(255,255,255,0.7)', backdropFilter: 'blur(8px)', borderBottom: '1px solid rgba(212,235,208,0.5)' }}>
-      <div style={{ maxWidth: 860, margin: '0 auto', display: 'flex', alignItems: 'center', gap: 8 }}>
+      `<div style={{ maxWidth: 860, margin: '0 auto', display: 'flex', alignItems: 'center', gap: 8 }}>
       <span style={{ fontSize: 10, color: '#aaa', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.8px', whiteSpace: 'nowrap', flexShrink: 0 }}>Quick Start</span>
       <div style={{ display: 'flex', gap: 6, overflowX: 'auto', paddingBottom: 2, scrollbarWidth: 'none' }}>
         {QUICK_STARTS.map(q => (

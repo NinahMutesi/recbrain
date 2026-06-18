@@ -5,3 +5,6 @@ dist/
 qdrant_storage/
 seed_temp.js
 .vite/
+nextjs-client/.next/
+nextjs-client/.env.local
+nextjs-client/node_modules/
